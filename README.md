@@ -1,4 +1,4 @@
-# Game Guess My Number
+# Game "Guess My Number"
 A game where you can guess a random number between 1 and 20
 
 ## **Shortcuts:**
